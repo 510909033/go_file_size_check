@@ -1,4 +1,4 @@
-package main
+package cody_dir
 
 import (
 	"sync"
